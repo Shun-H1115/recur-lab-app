@@ -1,0 +1,8 @@
+/target/
+/output/
+/dist/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
